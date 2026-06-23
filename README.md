@@ -1,2 +1,2 @@
 # NFL-Comeback-Predictor
-a logistic regression model that predicts whether a QB will or will not make a comeback
+A extreme gradient boost model that predicts whether a quarterback makes a comeback, when they are down between 2 to 3 scores at the beginning of the 4th quarter
